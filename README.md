@@ -34,17 +34,17 @@ Some of the places where Ruby is used are :
 
 # In Linux
 1. Open terminal ( ctrl+alt+T ).
-Check whether Ruby is installed on your computer by entering the command ruby -v.
+    Check whether Ruby is installed on your computer by entering the command ruby -v.
 
 To run Ruby Script File
 2. Open a new file with .rb extension ( name of our file is hello.rb ) in gedit.
-gedit hello.rb
+    gedit hello.rb
 3. Write the Ruby code given below and save it.
     puts "Hello World"
 4. To run this code, enter ruby hello.rb (it means that you have to enter 'ruby filename').
- -> Now you can see Hello World printed on the screen.
-
-To run on Interactive Ruby Shell (irb)
+    Now you can see Hello World printed on the screen.
+    
+    To run on Interactive Ruby Shell (irb)
 2. Enter irb in terminal. Then it will activate Interactive Ruby Shell
 3. Enter the code given below and you will see Hello World printed.
     puts "Hello World"
