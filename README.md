@@ -25,11 +25,11 @@ Some of the places where Ruby is used are :
 3. Open it from the installed apps ( Start Command Prompt with Ruby ).
 4. Start Interactive Ruby shell by entering the command irb.
 5. Type the code given below and press Enter and then you can see Hello World printed.
-# puts "Hello World"
+    puts "Hello World"
 4. Use the command mkdir ruby to make a new folder named 'ruby'.
 5. Switch to the folder 'ruby' by using the command cd ruby.
 6. Type the Ruby code given below in a file with .rb extension and save it in that folder ( name of our file is hello.rb).
-# puts "Hello World"
+    puts "Hello World"
 7. Enter the command ruby hello.rb i.e., 'ruby filename' and then you can see 'Hello World' printed on the screen
 
 # In Linux
@@ -40,11 +40,11 @@ To run Ruby Script File
 2. Open a new file with .rb extension ( name of our file is hello.rb ) in gedit.
 gedit hello.rb
 3. Write the Ruby code given below and save it.
-# puts "Hello World"
+    puts "Hello World"
 4. To run this code, enter ruby hello.rb (it means that you have to enter 'ruby filename').
  -> Now you can see Hello World printed on the screen.
 
 To run on Interactive Ruby Shell (irb)
 2. Enter irb in terminal. Then it will activate Interactive Ruby Shell
 3. Enter the code given below and you will see Hello World printed.
-# puts "Hello World"
+    puts "Hello World"
