@@ -1,2 +1,1 @@
-# Hello-world
-Its in Ruby Language
+# Ruby For Beginners
