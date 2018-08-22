@@ -36,7 +36,7 @@ Some of the places where Ruby is used are :
 1. Open terminal ( ctrl+alt+T ).
     Check whether Ruby is installed on your computer by entering the command ruby -v.
 
-To run Ruby Script File
+    To run Ruby Script File
 2. Open a new file with .rb extension ( name of our file is hello.rb ) in gedit.
     gedit hello.rb
 3. Write the Ruby code given below and save it.
